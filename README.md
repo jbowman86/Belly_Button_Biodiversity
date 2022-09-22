@@ -6,10 +6,10 @@ In this assignment, an interactive dashboard was built to explore the Belly Butt
 
 ## Overview
 
-This analysis aims to accomplish the follwoing:
+This analysis aims to accomplish the following:
 
-  1. Reading the samples.json using D3 Library.
-  2. A horizontal bar chart with a dropdown menu to display the top 10 OTUs found in the individual selected.
+  1. Read the samples.json using D3 Library.
+  2. Develop a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in the individual selected.
     a. Use sample_values for bar chart values.
     b. Use otu_ids for bar chart labels.
     c. Use otu_labels as hovertext for the chart.
@@ -19,6 +19,10 @@ This analysis aims to accomplish the follwoing:
     c. Use sample_values for marker size.
     d. Use otu_ids for marker colors.
     e. Use otu_labels for text values.
-  4. Displaying sample metadata like demographic info for individual.
-  5. Displaying each key-value pair from the metatdata JSON object on the page.
-  6. Ability to update the plots anytime a new smaple is selected.
+  4. Display sample metadata like demographic info for individual.
+  5. Display each key-value pair from the metatdata JSON object on the page.
+  6. Ability to update the plots when a new sample is selected.
+  7. Complete three customizations to the website housing the charts for belly button biodiversity
+    a. Add an image to the jumbotron.
+    b. Add background color to webpage.
+    c. Add more information about the project as a paragraph on the page.
