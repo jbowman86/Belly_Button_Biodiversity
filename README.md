@@ -6,7 +6,7 @@ In this assignment, an interactive dashboard was built to explore the Belly Butt
 
 ## Overview
 
-Thus analysis aims to accomplish the follwoing:
+This analysis aims to accomplish the follwoing:
 
   1. Reading the samples.json using D3 Library.
   2. A horizontal bar chart with a dropdown menu to display the top 10 OTUs found in the individual selected.
